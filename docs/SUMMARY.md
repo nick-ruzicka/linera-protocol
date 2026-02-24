@@ -51,6 +51,7 @@
   - [Validators](developers/advanced_topics/validators.md)
   - [Creating New Blocks](developers/advanced_topics/block_creation.md)
   - [Applications that Handle Assets](developers/advanced_topics/assets.md)
+  - [MCP Integration](developers/advanced_topics/mcp_integration.md)
 
 - [Experimental](developers/experimental.md)
   - [Machine Learning](developers/experimental/ml.md)
